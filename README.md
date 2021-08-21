@@ -1,5 +1,4 @@
 # OpenCVGestureRecognition
-# Banuka AMbegoda
 # Python
 Python OpenCV Gesture Recognition Volume Controller
 Interactive product
